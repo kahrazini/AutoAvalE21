@@ -177,12 +177,15 @@ Saber se comunicar de forma clara e eficiente é fundamental para um bom trabalh
 [ ] Requer atenção especial
 
 Observações
+
 Pontos positivos
 Algo em que você se destacou, seja técnico ou comportamental
 Engajamento com as atividades, comprometimento com a presença em aula e motivação para analisar as correções e comparar e corrigir com os exercícios feitos.
+
 Pontos de melhoria
 Algo em que você considera que tenha ido bem, mas que de alguma forma tenha aptidão de melhorar, seja técnico ou comportamental
 Devo buscar mais esclarecimentos sobre os assuntos não compreendidos totalmente durante a aula, não apenas tentar entender pela resolução dos exercícios.
+
 Observação geral
 De uma forma geral, comentar e destacar alguma característica ou habilidade que tenha desenvolvido durante as aulas e que julgue que possa ser útil para uma empresa, que possa agregar valor a seu curriculo
 Capacidade da analisar as questões e entender todas as problemáticas.
@@ -190,13 +193,18 @@ Capacidade da analisar as questões e entender todas as problemáticas.
 Experiência e Conhecimentos Prévios
 Fale sobre seu nível de conhecimento a cerca de "desenvolvimento de software" antes de iniciar o E21
 Nunca tive contato com desenvolvimento.
+
 Você já sabia programar, se sim, quais linguagens?
 Não
+
 Você fez algum curso na área ou está cursando, se sim qual curso (Curso livre, Técnico, Nível superiror, etc)?
 Nunca fiz cursos na área.
+
 Você já teve alguma experiencia profissional em alguma empresa de desenvolvimento de software, se sim, conte um pouco a respeito.
 Nunca tive experiência na área.
+
 Você está trabalhando atualmente, conte um pouco a respeito?
 Sim, trabalho em tempo integral atualmente.
+
 Você está estudando atualmente (ensino médio, superior, outros...)?
 Não, sou formada em Direito.
